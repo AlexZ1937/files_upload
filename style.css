@@ -1,0 +1,38 @@
+.load
+{
+    margin-left: 4.5%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: aqua;
+
+
+}
+.lablTxt
+{
+    height: 15px;
+    text-align: right;
+    width: 120px;
+    float: left;
+}
+
+.inputTxt
+{
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+
+.subm
+{
+    margin-left: 130px;
+    width: 200px;
+    height: 40px;
+
+}
+
+.fon
+{
+    margin-left: 10%;
+    margin-top: 5%;
+}
